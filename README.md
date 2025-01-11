@@ -1,1 +1,1 @@
-<img src="assets/code-snapshot.png" width="70%">
+<img src="assets/code-snapshot.png" width="50%">
